@@ -1,0 +1,38 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.Krate",
+    "tns-android": {
+      "version": "5.4.0"
+    },
+    "tns-ios": {
+      "version": "5.4.2"
+    }
+  },
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "<fill-your-repository-here>",
+  "dependencies": {
+    "nativescript-fonticon": "^2.0.0",
+    "nativescript-theme-core": "^1.0.6",
+    "nativescript-vue": "~2.2.0",
+    "tns-core-modules": "~5.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.1.0",
+    "@babel/preset-env": "~7.1.0",
+    "babel-eslint": "^10.0.2",
+    "babel-loader": "~8.0.0",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-vue": "^5.2.3",
+    "nativescript-dev-webpack": "~0.24.0",
+    "nativescript-vue-template-compiler": "~2.2.0",
+    "node-sass": "^4.7.1",
+    "prettier": "^1.18.2",
+    "vue-eslint-parser": "^6.0.4",
+    "vue-loader": "~15.4.0"
+  },
+  "gitHead": "8c1a4866a66daab09bf5ef8e5a96472687192373",
+  "readme": "NativeScript Application"
+}
