@@ -28,7 +28,7 @@
     "eslint-plugin-vue": "^5.2.3",
     "nativescript-dev-webpack": "~0.24.0",
     "nativescript-vue-template-compiler": "~2.2.0",
-    "node-sass": "^4.7.1",
+    "node-sass": "^7.0.0",
     "prettier": "^1.18.2",
     "vue-eslint-parser": "^6.0.4",
     "vue-loader": "~15.4.0"
